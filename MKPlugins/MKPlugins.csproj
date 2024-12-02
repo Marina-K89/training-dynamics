@@ -130,6 +130,8 @@
     <Compile Include="PluginExtensions\Interfaces\IPluginSubscribeToMessage.cs" />
     <Compile Include="PluginExtensions\Interfaces\IPluginSubscriptionBuilder.cs" />
     <Compile Include="PluginExtensions\PluginBase.cs" />
+    <Compile Include="Plugins\PreventPriceListCreation.cs" />
+    <Compile Include="Plugins\PreventPriceListPositionCreation.cs" />
     <Compile Include="Plugins\SetOwnerOnDealCreation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
